@@ -11,7 +11,7 @@ No accounts, no tracking: your things stay on your device.
 
 <br>
 
-<a href="https://github.com/TheSscarletSkies/needledrop">
+<a href="https://thesscarletskies.github.io/needledrop/">
   <img src="https://raw.githubusercontent.com/TheSscarletSkies/needledrop/main/docs/screenshot.jpg" alt="Needledrop: a walnut turntable on a sideboard in golden window light">
 </a>
 
@@ -19,7 +19,7 @@ No accounts, no tracking: your things stay on your device.
 
 A real-time 3D turntable for your desktop. Whatever you're playing in Spotify, Apple Music, YouTube or your own files gets pressed onto a record, the platter spins up and the tonearm tracks across the grooves. Rain and snow drift through the window light, the speakers move with the music, and it all fits in a little widget too. Every part is generated in code with three.js: no models, no images.
 
-**[Download for Mac, Windows or Linux →](https://thesscarletskies.github.io/needledrop/)**
+**[Download for Mac, Windows or Linux →](https://thesscarletskies.github.io/needledrop/)** · [Source code](https://github.com/TheSscarletSkies/needledrop)
 
 <br>
 
